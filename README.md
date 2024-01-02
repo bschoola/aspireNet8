@@ -1,2 +1,3 @@
 # aspireNet8
-Study project
+Study project to .Net8 Aspire
+
